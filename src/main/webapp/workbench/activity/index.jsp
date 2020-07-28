@@ -188,6 +188,11 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 </head>
 <body>
 
+	<input type="hidden" id="hidden-name">
+	<input type="hidden" id="hidden-">
+	<input type="hidden" id="hidden-">
+	<input type="hidden" id="hidden-">
+
 	<!-- 创建市场活动的模态窗口 -->
 	<div class="modal fade" id="createActivityModal" role="dialog">
 		<div class="modal-dialog" role="document" style="width: 85%;">
