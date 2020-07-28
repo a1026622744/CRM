@@ -19,4 +19,5 @@ com\yang\settings\dao\UserDao.class
 com\yang\workbench\domain\ActivityRemark.class
 com\yang\web\filter\LoginFilter.class
 com\yang\settings\domain\User.class
+com\yang\workbench\dao\ActivityRemarkDao.class
 com\yang\settings\web\controller\UserController.class
